@@ -1,4 +1,4 @@
-O projeto pode ser testado [aqui](https://wallinsonrocha.github.io/jogo-da-memoria/)
+O projeto pode ser testado [aqui](https://wallinsonrocha.github.io/jogo-da-memoria-bootcamp-TQI/)
 
 # Projeto do Bootcamp TQI
 
